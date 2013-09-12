@@ -1,7 +1,7 @@
 === Upload Url and Path Enabler ===
 Contributors: GregLone
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UBY2MY2J4YB7J&item_number=Upload-Url-and-Path-Enabler
-Tags: media upload path url
+Tags: media, upload, path, url
 Requires at least: 3.5
 Tested up to: 3.6.1
 Stable tag: trunk
