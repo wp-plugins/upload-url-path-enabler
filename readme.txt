@@ -3,7 +3,7 @@ Contributors: GregLone
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UBY2MY2J4YB7J&item_number=Upload-Url-and-Path-Enabler
 Tags: media upload path url
 Requires at least: 3.5
-Tested up to: 3.5.1
+Tested up to: 3.6.1
 Stable tag: trunk
 License: GPLv3
 
@@ -24,6 +24,10 @@ WordPress 3.5 removes the setting fields to change the media upload path and url
 None.
 
 == Changelog ==
+
+= 1.0.1 =
+* 2013/09/13
+* Small security fix.
 
 = 1.0 =
 * 2013/01/26

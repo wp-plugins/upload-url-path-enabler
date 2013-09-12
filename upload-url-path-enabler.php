@@ -3,11 +3,16 @@
  * Plugin Name: Upload Url and Path Enabler
  * Plugin URI: http://www.screenfeed.fr
  * Description: WordPress 3.5 removes the setting fields to change the media upload path and url. This plugin enable them again. Note that as long as your fields are not empty, you can disable this plugin.
- * Version: 1.0
- * Author: GregLone
+ * Version: 1.0.1
+ * Author: Grégory Viguier
  * Author URI: http://www.screenfeed.fr/greg/
- * License: GPLv2+
+ * License: GPLv3
+ * License URI: http://www.screenfeed.fr/gpl-v3.txt
+ * Require: WordPress 3.5
 */
+
+if( !defined( 'ABSPATH' ) )
+	die( 'Cheatin\' uh?' );
 
 global $wp_version;
 if ( version_compare($wp_version, '3.5', '<') || !is_admin() || is_multisite() )
