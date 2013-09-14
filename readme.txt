@@ -25,6 +25,10 @@ None.
 
 == Changelog ==
 
+= 1.0.2 =
+* 2013/09/14
+* Removed a line in the plugin informations that could prevent proper activation.
+
 = 1.0.1 =
 * 2013/09/13
 * Small security fix.
