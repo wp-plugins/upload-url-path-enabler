@@ -1,11 +1,11 @@
 === Upload Url and Path Enabler ===
 Contributors: GregLone
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UBY2MY2J4YB7J&item_number=Upload-Url-and-Path-Enabler
 Tags: media, upload, path, url
 Requires at least: 3.5
-Tested up to: 3.6.1
+Tested up to: 3.7
 Stable tag: trunk
 License: GPLv3
+License URI: http://www.screenfeed.fr/gpl-v3.txt
 
 Get the media upload path and url setting fields back in WP 3.5.
 
@@ -40,46 +40,3 @@ None.
 == Upgrade Notice ==
 
 Nothing special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
