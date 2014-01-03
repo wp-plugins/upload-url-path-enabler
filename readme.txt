@@ -11,13 +11,13 @@ Get the media upload path and url setting fields back in WP 3.5.
 
 == Description ==
 
-WordPress 3.5 removes the setting fields to change the media upload path and url. This plugin enable them again. Note that as long as your fields are not empty, you can disable this plugin.
+WordPress 3.5 removes the setting fields to change the media upload path and url. This plugin enables them again. Note that as long as your fields are not empty, you can disable this plugin.
 
 == Installation ==
 
 1. Extract the plugin folder from the downloaded ZIP file.
-2. Upload the `upload_url_path_enabler` folder to your *wp-content/plugins/* directory.
-3. Activate the plugin from the "Plugins" page.
+1. Upload the `upload_url_path_enabler` folder to your *wp-content/plugins/* directory.
+1. Activate the plugin from the "Plugins" page.
 
 == Frequently Asked Questions ==
 
