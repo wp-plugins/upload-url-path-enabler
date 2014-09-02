@@ -2,7 +2,7 @@
 Contributors: GregLone
 Tags: media, upload, path, url
 Requires at least: 3.5
-Tested up to: 3.7
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.screenfeed.fr/gpl-v3.txt
@@ -22,6 +22,10 @@ WordPress 3.5 removes the setting fields to change the media upload path and url
 == Frequently Asked Questions ==
 
 None.
+
+== Screenshots ==
+
+1. The medias settings page.
 
 == Changelog ==
 
