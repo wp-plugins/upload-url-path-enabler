@@ -2,12 +2,12 @@
 Contributors: GregLone
 Tags: media, upload, path, url
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.screenfeed.fr/gpl-v3.txt
 
-Get the media upload path and url setting fields back in WP 3.5.
+Get the media upload path and url setting fields back in WP 3.5+.
 
 == Description ==
 
@@ -28,6 +28,11 @@ None.
 1. The medias settings page.
 
 == Changelog ==
+
+= 1.0.3 =
+* 2013/03/03
+* Small code readability improvements.
+* Added plugin URL.
 
 = 1.0.2 =
 * 2013/09/14
